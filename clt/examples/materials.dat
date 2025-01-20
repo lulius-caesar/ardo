@@ -1,0 +1,12 @@
+# Material properties
+# I = "isotropic"
+# A = "anisotropic"
+
+# Rubber
+I 69e3 0.45
+
+# Carbon
+A 69e6 6e6 0.354 3e6 2.1e-3 2.1e-3 0.01 0.35 47e3 14e3 24e3 18e3 75e3 41e3 2e4
+
+# Steel
+I 210e3 0.354 
